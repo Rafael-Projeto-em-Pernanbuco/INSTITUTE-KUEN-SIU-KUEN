@@ -12,6 +12,7 @@
             margin: 0;
             padding: 0;
         }
+        
         header {
             text-align: center;
             padding: 20px;
@@ -126,6 +127,7 @@
     </style>
 </head>
 <body>
+    
     <header>
         <h1>INSTITUTE KUEN SIU KUEN WING SHUN KUNG FU</h1>
         <div id="google_translate_element"></div>
@@ -172,7 +174,13 @@
             <input type="email" placeholder="Seu e-mail" required>
             <button type="submit">Cadastrar</button>
         </form>
-
+  <h2>Fale Conosco</h2>
+  <div class="chat-box">
+    <textarea placeholder="Digite sua mensagem..."></textarea><br>
+    <button onclick="alert('Mensagem enviada! (Simulação)')">Enviar</button>
+    <button onclick="startRecording()">🎤 Gravar Áudio</button>
+    <p id="audio-status"></p>
+  </div>
         <h3>Siga-nos nas redes sociais</h3>
         <div class="social-icons">
             <a href="https://wa.me/+558898313939" target="_blank">WhatsApp</a> |
