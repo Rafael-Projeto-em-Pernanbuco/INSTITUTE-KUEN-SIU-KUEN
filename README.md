@@ -132,7 +132,7 @@
         <h2>Encontre-nos</h2>
         <div class="map-container">
             <!-- Substitua o link abaixo pelo mapa da sua academia -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!..."></iframe>
+            <iframe src="https://www.google.com/maps/R. Álbis Irapuan Pimentel, 300 - Tiradentes, Juazeiro do Norte - CE, 63030-795>
         </div>
     </section>
 
@@ -145,8 +145,8 @@
 
         <h3>Siga-nos nas redes sociais</h3>
         <div class="social-icons">
-            <a href="https://wa.me/seu_numero" target="_blank">WhatsApp</a> |
-            <a href="https://instagram.com" target="_blank">Instagram</a> |
+            <a href="https://wa.me/+558898313939" target="_blank">WhatsApp</a> |
+            <a href="https://www.instagram.com/institutokuensiukuen?igsh=eXozNGIwZHRnM2Ft" target="_blank">Instagram</a> |
             <a href="https://facebook.com" target="_blank">Facebook</a> |
             <a href="https://kwai.com" target="_blank">Kwai</a> |
             <a href="https://tiktok.com" target="_blank">TikTok</a> |
