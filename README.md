@@ -132,7 +132,7 @@
         <h2>Encontre-nos</h2>
         <div class="map-container">
             <!-- Substitua o link abaixo pelo mapa da sua academia -->
-            <iframe src="https://www.google.com/maps/R. Álbis Irapuan Pimentel, 300 - Tiradentes, Juazeiro do Norte - CE, 63030-795>
+            <iframe src="https://www.google.com/maps/>
         </div>
     </section>
 
