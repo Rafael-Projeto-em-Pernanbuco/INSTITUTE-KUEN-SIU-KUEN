@@ -59,41 +59,37 @@
             text-decoration: none;
             font-size: 20px;
         }
-        .chat-button {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background-color: #25D366;
-            color: white;
-            padding: 15px;
-            border-radius: 50%;
-            text-decoration: none;
-            font-size: 25px;
-        }
-        form input, form button {
+        chat-header {
+            background: #000;
             padding: 10px;
-            margin: 5px;
-            border: 1px solid #000;
-            border-radius: 5px;
-        }
-        form button {
-            background-color: #FF0000;
-            color: white;
+            font-weight: bold;
             cursor: pointer;
         }
-        .artes {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+        .chat-body {
+            max-height: 300px;
+            overflow-y: auto;
+            padding: 10px;
+            display: none;
         }
-        .arte {
-            margin: 20px;
-            width: 250px;
+        .chat-input {
+            padding: 10px;
+            background: #222;
         }
-        .arte img {
+        .chat-input input {
             width: 100%;
-            border: 2px solid black;
-            border-radius: 10px;
+            padding: 8px;
+            background: #333;
+            color: white;
+            border: none;
+        }
+        .message {
+            margin: 5px 0;
+        }
+        .user {
+            color: #4caf50;
+        }
+        .bot {
+            color: #03a9f4;
         }
     </style>
 </head>
@@ -132,7 +128,7 @@
         <h2>Encontre-nos</h2>
         <div class="map-container">
             <!-- Substitua o link abaixo pelo mapa da sua academia -->
-            <iframe src="https://www.google.com/maps/>
+            <iframe src="https://maps.app.goo.gl/17TKWYqWsuLzuT9P9?g_st=aw>
         </div>
     </section>
 
