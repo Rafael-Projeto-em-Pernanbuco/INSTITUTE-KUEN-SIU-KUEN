@@ -162,7 +162,9 @@
         <h2>Encontre-nos</h2>
         <div class="map-container">
             <!-- Substitua o link abaixo pelo mapa da sua academia -->
-            <iframe src="https://www.google.com/maps?q=Rua+Álbis+Irapuan+Pimentel+300,+Juazeiro+do+Norte,+CE&output=embed
+        <div class="map-container">
+            <iframe 
+            src="https://www.google.com/maps?q=Rua+Álbis+Irapuan+Pimentel+300,+Juazeiro+do+Norte,+CE&output=embed
                   allowfullscreen>
             </iframe>
         </div>
@@ -193,7 +195,7 @@
         </div>
     </section>
 
-    <a class="chat-button" href="https://wa.me/seu_numero" target="_blank">💬</a>
+    <a class="chat-button" href="https://wa.me/558898313939" target="_blank">💬</a>
 
     <footer>
         <p>© 2025 Institute Kuen Siu Kuen Wing Shun Kung Fu — Todos os direitos reservados</p>
