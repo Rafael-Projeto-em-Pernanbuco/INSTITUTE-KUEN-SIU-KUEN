@@ -160,7 +160,7 @@
         <h2>Encontre-nos</h2>
         <div class="map-container">
             <!-- Substitua o link abaixo pelo mapa da sua academia -->
-            <iframe src="https://maps.app.goo.gl/17TKWYqWsuLzuT9P9?g_st=aw"
+            <iframe src="https://www.google.com/maps?q=Rua+Álbis+Irapuan+Pimentel+300,+Juazeiro+do+Norte,+CE&output=embed
                   allowfullscreen>
             </iframe>
         </div>
