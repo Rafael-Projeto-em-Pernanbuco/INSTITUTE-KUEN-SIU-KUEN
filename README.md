@@ -59,6 +59,38 @@
             text-decoration: none;
             font-size: 20px;
         }
+            .chat-box {
+      background-color: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 5px;
+      padding: 10px;
+      max-width: 400px;
+      margin: 20px auto;
+    }
+    .chat-box textarea {
+      width: 100%;
+      height: 60px;
+      resize: none;
+      background: #000;
+      color: #ccc;
+      border: 1px solid #444;
+      border-radius: 4px;
+      margin-bottom: 10px;
+    }
+    .chat-box button {
+      padding: 8px 16px;
+      background: #444;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+        /* Google Tradutor fixado no canto */
+        #google_translate_element {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 9999;
+        }
         chat-header {
             background: #000;
             padding: 10px;
@@ -128,7 +160,9 @@
         <h2>Encontre-nos</h2>
         <div class="map-container">
             <!-- Substitua o link abaixo pelo mapa da sua academia -->
-            <iframe src="https://maps.app.goo.gl/17TKWYqWsuLzuT9P9?g_st=aw>
+            <iframe src="https://maps.app.goo.gl/17TKWYqWsuLzuT9P9?g_st=aw"
+                  allowfullscreen>
+            </iframe>
         </div>
     </section>
 
