@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>INSTITUTE KUEN SIU KUEN WING SHUN KUNG FU</title>
+    <title>INSTITUTE KUEN SIU KUEN WING CHUN SHAO LIN</title>
     <style>
         body {
             background-color: #FFD700; /* Amarelo */
@@ -129,7 +129,7 @@
 <body>
     
     <header>
-        <h1>INSTITUTE KUEN SIU KUEN WING SHUN KUNG FU</h1>
+        <h1>INSTITUTE KUEN SIU KUEN WING CHUN SHAO Lin</h1>
         <div id="google_translate_element"></div>
     </header>
 
@@ -144,8 +144,8 @@
         <p><strong>Mensalidade:</strong> R$200,00 — 3 aulas por semana</p>
         <div class="artes">
             <div class="arte">
-                <h3>Wing Shun Kung Fu</h3>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Wing_Chun_Silhouette.png" alt="Wing Shun">
+                <h3>Wing Chun Shao Lin</h3>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Wing_Chun_Silhouette.png" alt="Wing Chun Shao Lin">
             </div>
             <div class="arte">
                 <h3>Muay Thai Feminino</h3>
@@ -168,21 +168,9 @@
                   allowfullscreen>
             </iframe>
         </div>
+      </div>
     </section>
 
-    <section id="contato">
-        <h2>Cadastre-se para receber novidades</h2>
-        <form>
-            <input type="email" placeholder="Seu e-mail" required>
-            <button type="submit">Cadastrar</button>
-        </form>
-  <h2>Fale Conosco</h2>
-  <div class="chat-box">
-    <textarea placeholder="Digite sua mensagem..."></textarea><br>
-    <button onclick="alert('Mensagem enviada! (Simulação)')">Enviar</button>
-    <button onclick="startRecording()">🎤 Gravar Áudio</button>
-    <p id="audio-status"></p>
-  </div>
         <h3>Siga-nos nas redes sociais</h3>
         <div class="social-icons">
             <a href="https://wa.me/+558898313939" target="_blank">WhatsApp</a> |
@@ -198,7 +186,7 @@
     <a class="chat-button" href="https://wa.me/558898313939" target="_blank">💬</a>
 
     <footer>
-        <p>© 2025 Institute Kuen Siu Kuen Wing Shun Kung Fu — Todos os direitos reservados</p>
+        <p>© 2025 Institute Kuen Siu Kuen Wing Chun Shao Lin — Todos os direitos reservados</p>
     </footer>
 
     <!-- Google Translate -->
