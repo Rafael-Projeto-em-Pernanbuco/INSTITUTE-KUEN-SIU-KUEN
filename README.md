@@ -52,77 +52,20 @@
             text-align: center;
             padding: 20px;
             background-color: #FF0000;
-            color: white;
+            color: black;
         }
         .social-icons a {
-            margin: 0 10px;
-            color: white;
+            margin: 0 20px;
+            color: black;
             text-decoration: none;
-            font-size: 20px;
+            font-size: 40px;
         }
-            .chat-box {
-      background-color: #1a1a1a;
-      border: 1px solid #333;
-      border-radius: 5px;
-      padding: 10px;
-      max-width: 400px;
-      margin: 20px auto;
-    }
-    .chat-box textarea {
-      width: 100%;
-      height: 60px;
-      resize: none;
-      background: #000;
-      color: #ccc;
-      border: 1px solid #444;
-      border-radius: 4px;
-      margin-bottom: 10px;
-    }
-    .chat-box button {
-      padding: 8px 16px;
-      background: #444;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
         /* Google Tradutor fixado no canto */
         #google_translate_element {
             position: fixed;
             top: 10px;
             right: 10px;
             z-index: 9999;
-        }
-        chat-header {
-            background: #000;
-            padding: 10px;
-            font-weight: bold;
-            cursor: pointer;
-        }
-        .chat-body {
-            max-height: 300px;
-            overflow-y: auto;
-            padding: 10px;
-            display: none;
-        }
-        .chat-input {
-            padding: 10px;
-            background: #222;
-        }
-        .chat-input input {
-            width: 100%;
-            padding: 8px;
-            background: #333;
-            color: white;
-            border: none;
-        }
-        .message {
-            margin: 5px 0;
-        }
-        .user {
-            color: #4caf50;
-        }
-        .bot {
-            color: #03a9f4;
         }
     </style>
 </head>
